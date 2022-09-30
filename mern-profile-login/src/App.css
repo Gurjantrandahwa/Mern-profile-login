@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+button {
+    padding: 5px 15px;
+    background-color: #034c70;
+    margin-top: 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: red;
+    margin-bottom: 30px;
+}
+
+input {
+    height: 30px;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 400px;
+    outline: none !important;
+}
